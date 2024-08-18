@@ -1,3 +1,8 @@
-🚀 Practicing Web / Software developement 
-🌟 HTML and CSS
-💫 c++ and C#
+## 🏝️ About Me
+Learning software development (C++) aswell as improving frontend web development  
+
+
+
+## 🛠 Skills
+Frontend Web Developement \
+HTML and CSS 
