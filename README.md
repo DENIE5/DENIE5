@@ -13,7 +13,7 @@ Hi, I'm denies<br><br>🔭 I'm currently working on Forkcast (A meal planner)<br
 ![](https://github-contributor-stats.vercel.app/api?username=DENIE5&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/denies5) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](denies5) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
