@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm denies<br><br>🔭 I'm currently working on Vaultify - Password Generator<br>🌱 I'm currently learning C++
+Hi, I'm denies<br><br>🔭 I'm currently working on a password generator with a storage feature.<br>🌱 I'm currently learning C++
 
 
 # 💻 Tech Stack:
